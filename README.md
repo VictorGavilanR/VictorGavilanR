@@ -33,15 +33,19 @@ Especializado en análisis de datos con Python, Machine Learning  y  desarrollo 
 
 ## Proyectos Destacados
 
-### [Predicción de Fuga de Clientes (Telco Churn) con SMOTE](#)
-* **Descripción:** Proyecto end-to-end para predecir la fuga de clientes. Se realizó un EDA profundo (33 gráficos) para identificar las causas raíz del abandono (contrato, tipo de servicio) y se construyó un modelo de clasificación.
+### [Predicción de Fuga de Clientes (Telco Churn) con SMOTE]([#](https://github.com/VictorGavilanR/telco-churn-prediction-smote))
+**Descripción:** Proyecto end-to-end para predecir la fuga de clientes. Se realizó un EDA profundo (33 gráficos) para identificar las causas raíz del abandono (contrato, tipo de servicio) y se construyó un modelo de clasificación.
 
-* **Logro Clave:** Se diagnosticó un problema de desbalance de datos (73.5% vs 26.5%) y se aplicó SMOTE, aumentando el Recall (métrica clave) del modelo de Regresión Logística del 55.9% al 70.9%.
+**Logro Clave:** Se diagnosticó un problema de desbalance de datos (73.5% vs 26.5%) y se aplicó SMOTE, aumentando el Recall (métrica clave) del modelo de Regresión Logística del 55.9% al 70.9%.
 
-* **Tecnologías:** Python, Pandas, Seaborn, Scikit-learn, Imbalanced-learn (SMOTE)
+**Tecnologías:** Python, Pandas, Seaborn, Scikit-learn, Imbalanced-learn (SMOTE)
 
-### [Análisis Exploratorio (EDA) de Ventas de Videojuegos](#)
-Breve descripción del proyecto y tecnologías utilizadas.
+### [Análisis Exploratorio (EDA) de Ventas de Videojuegos](https://github.com/VictorGavilanR/Video-Game-Sales-EDA)
+**Descripción:** Análisis exploratorio de un dataset de ventas globales de videojuegos para descubrir tendencias históricas y patrones de mercado. El objetivo fue identificar qué géneros, plataformas y publishers dominaron el mercado.
+
+**Logro Clave:** Se identificaron las "eras doradas" de las principales consolas (ej. PS2, Wii) y se analizaron las preferencias de género por región (ej. cómo las ventas de JRPG difieren entre Japón y Norteamérica).
+
+**Tecnologías:** Python, Pandas, Matplotlib, Seaborn
 
 ### [Nombre del Proyecto 3](#)
 Breve descripción del proyecto y tecnologías utilizadas.
