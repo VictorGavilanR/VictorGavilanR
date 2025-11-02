@@ -12,7 +12,7 @@
 
 Ingeniero en Informática egresado de INACAP (2020–2024), actualmente cursando un Diplomado en Data Science en UDLA.
 
-Especializado en desarrollo web frontend y análisis de datos con Python, con pasión por crear soluciones tecnológicas que generen valor real.
+Especializado en análisis de datos con Python, Machine Learning  y  desarrollo web frontend , con pasión por crear soluciones tecnológicas que generen valor real.
 
 📍 Concepción, Chile
 
@@ -21,25 +21,26 @@ Especializado en desarrollo web frontend y análisis de datos con Python, con pa
 ## Stack Tecnológico
 
 **Desarrollo Web**  
-`HTML` • `CSS` • `JavaScript` • `React`
+`HTML` • `CSS` • `JavaScript` • `React` • `Astro`
 
 **Análisis de Datos**  
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly`
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `SQL`
 
 **Herramientas**  
 `Git` • `GitHub` • `VS Code` • `Excel` • `Trello`
-
-**Metodologías**  
-`Scrum` • `Kanban` • `Agile`
 
 ---
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1](#)
-Breve descripción del proyecto y tecnologías utilizadas.
+### [Predicción de Fuga de Clientes (Telco Churn) con SMOTE](#)
+* **Descripción:** Proyecto end-to-end para predecir la fuga de clientes. Se realizó un EDA profundo (33 gráficos) para identificar las causas raíz del abandono (contrato, tipo de servicio) y se construyó un modelo de clasificación.
 
-### [Nombre del Proyecto 2](#)
+* **Logro Clave:** Se diagnosticó un problema de desbalance de datos (73.5% vs 26.5%) y se aplicó SMOTE, aumentando el Recall (métrica clave) del modelo de Regresión Logística del 55.9% al 70.9%.
+
+* **Tecnologías:** Python, Pandas, Seaborn, Scikit-learn, Imbalanced-learn (SMOTE)
+
+### [Análisis Exploratorio (EDA) de Ventas de Videojuegos](#)
 Breve descripción del proyecto y tecnologías utilizadas.
 
 ### [Nombre del Proyecto 3](#)
