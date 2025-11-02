@@ -47,7 +47,7 @@ Especializado en análisis de datos con Python, Machine Learning  y  desarrollo 
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn
 
-### [Análisisde Sismicidad en Chile](https://github.com/VictorGavilanR/analisis-sismos-chile)
+### [Análisis de Sismicidad en Chile](https://github.com/VictorGavilanR/analisis-sismos-chile)
 Descripción:** Análisis exploratorio (EDA) de datos sísmicos históricos de Chile. El proyecto se enfoca en el análisis de series temporales y la visualización  para identificar patrones y zonas de riesgo.
 
 **Logro Clave:** Creación de mapas de calor (heatmaps) interactivos que visualizan los hotspots sísmicos (epicentros más frecuentes) y la distribución de magnitudes a lo largo del país.
