@@ -33,7 +33,7 @@ Especializado en análisis de datos con Python, Machine Learning  y  desarrollo 
 
 ## Proyectos Destacados
 
-### [Predicción de Fuga de Clientes (Telco Churn) con SMOTE]([#](https://github.com/VictorGavilanR/telco-churn-prediction-smote))
+### [Predicción de Fuga de Clientes (Telco Churn) con SMOTE](https://github.com/VictorGavilanR/telco-churn-prediction-smote)
 **Descripción:** Proyecto end-to-end para predecir la fuga de clientes. Se realizó un EDA profundo (33 gráficos) para identificar las causas raíz del abandono (contrato, tipo de servicio) y se construyó un modelo de clasificación.
 
 **Logro Clave:** Se diagnosticó un problema de desbalance de datos (73.5% vs 26.5%) y se aplicó SMOTE, aumentando el Recall (métrica clave) del modelo de Regresión Logística del 55.9% al 70.9%.
@@ -47,8 +47,12 @@ Especializado en análisis de datos con Python, Machine Learning  y  desarrollo 
 
 **Tecnologías:** Python, Pandas, Matplotlib, Seaborn
 
-### [Nombre del Proyecto 3](#)
-Breve descripción del proyecto y tecnologías utilizadas.
+### [Análisisde Sismicidad en Chile](https://github.com/VictorGavilanR/analisis-sismos-chile)
+Descripción:** Análisis exploratorio (EDA) de datos sísmicos históricos de Chile. El proyecto se enfoca en el análisis de series temporales y la visualización  para identificar patrones y zonas de riesgo.
+
+**Logro Clave:** Creación de mapas de calor (heatmaps) interactivos que visualizan los hotspots sísmicos (epicentros más frecuentes) y la distribución de magnitudes a lo largo del país.
+
+**Tecnologías:** Python, Pandas, Matplotlib, Seaborn, Folium 
 
 ---
 
