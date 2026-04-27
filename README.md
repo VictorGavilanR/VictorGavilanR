@@ -10,11 +10,7 @@
 
 ## Sobre mí
 
-Ingeniero en Informática egresado de INACAP (2020–2024), actualmente cursando un Diplomado en Data Science en UDLA.
-
-Especializado en análisis de datos con Python, Machine Learning  y  desarrollo web frontend , con pasión por crear soluciones tecnológicas que generen valor real.
-
-📍 Concepción, Chile
+Ingeniero en Informática con un Diplomado en Data Science.
 
 ---
 
