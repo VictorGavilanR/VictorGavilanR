@@ -2,7 +2,7 @@
 
 # Víctor Gavilán
 
-**Ingeniero en Informática** • **Data Science & data analytics **
+**Ingeniero en Informática** • **Data Science & data analytics**
 
 [LinkedIn](https://www.linkedin.com/in/victor-gavilán-ab1313304/) • [Email](mailto:victormanuelgavilanr18@gmail.com) • [Portfolio](https://github.com/VictorGavilanR)
 
